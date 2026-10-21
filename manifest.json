@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "scverse",
+  "repo": "integration-testing",
+  "versions": [
+    {
+      "commit": "26725873224bee5e32d1ab94dca982c3c56395f3",
+      "parsed_at": "2026-10-21T20:25:00.097496+00:00",
+      "filetree": "filetree/26725873224bee5e32d1ab94dca982c3c56395f3.nq.gz",
+      "blobs": [
+        "blob/f9b444cb1ca88c59dade5eb4a0360dd85394bde5.nq.gz",
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/789f724ce681c31c3e45fb5c54d9741c8e98dd7c.nq.gz",
+        "blob/cc05b2846d35e636be2f866fbe179cb41066f121.nq.gz",
+        "blob/d29b592f60bd14a6ad9d1f7349587f81078603f1.nq.gz",
+        "blob/433609251879b18ea1b3df70c44a85b4a11c8bed.nq.gz",
+        "blob/b6ecf1443fc2437d0cef56f5240dbd2e055bd26e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
